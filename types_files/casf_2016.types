@@ -1,0 +1,569 @@
+-1 2.07 -1 3ao4/3ao4_protein_cleaned.parquet 3ao4/3ao4_ligand.parquet
+
+2.12 -1 -1 3gv9/3gv9_protein_cleaned.parquet 3gv9/3gv9_ligand.parquet
+
+-1 2.27 -1 1uto/1uto_protein_cleaned.parquet 1uto/1uto_ligand.parquet
+
+2.28 -1 -1 1ps3/1ps3_protein_cleaned.parquet 1ps3/1ps3_ligand.parquet
+
+-1 2.29 -1 4ddk/4ddk_protein_cleaned.parquet 4ddk/4ddk_ligand.parquet
+
+2.30 -1 -1 4jsz/4jsz_protein_cleaned.parquet 4jsz/4jsz_ligand.parquet
+
+2.36 -1 -1 3g2z/3g2z_protein_cleaned.parquet 3g2z/3g2z_ligand.parquet
+
+2.40 -1 -1 3dxg/3dxg_protein_cleaned.parquet 3dxg/3dxg_ligand.parquet
+
+2.40 -1 -1 3l7b/3l7b_protein_cleaned.parquet 3l7b/3l7b_ligand.parquet
+
+2.52 -1 -1 3gr2/3gr2_protein_cleaned.parquet 3gr2/3gr2_ligand.parquet
+
+2.57 -1 -1 3kgp/3kgp_protein_cleaned.parquet 3kgp/3kgp_ligand.parquet
+
+2.77 -1 -1 3fcq/3fcq_protein_cleaned.parquet 3fcq/3fcq_ligand.parquet
+
+-1 2.82 -1 3lka/3lka_protein_cleaned.parquet 3lka/3lka_ligand.parquet
+
+-1 2.84 -1 3zt2/3zt2_protein_cleaned.parquet 3zt2/3zt2_ligand.parquet
+
+-1 2.85 -1 3udh/3udh_protein_cleaned.parquet 3udh/3udh_ligand.parquet
+
+2.89 -1 -1 3g31/3g31_protein_cleaned.parquet 3g31/3g31_ligand.parquet
+
+2.89 -1 -1 4llx/4llx_protein_cleaned.parquet 4llx/4llx_ligand.parquet
+
+-1 2.92 -1 4u4s/4u4s_protein_cleaned.parquet 4u4s/4u4s_ligand.parquet
+
+2.96 -1 -1 4owm/4owm_protein_cleaned.parquet 4owm/4owm_ligand.parquet
+
+-1 2.98 -1 5aba/5aba_protein_cleaned.parquet 5aba/5aba_ligand.parquet
+
+-1 3.10 -1 2xdl/2xdl_protein_cleaned.parquet 2xdl/2xdl_ligand.parquet
+
+3.10 -1 -1 4kz6/4kz6_protein_cleaned.parquet 4kz6/4kz6_ligand.parquet
+
+-1 3.16 -1 2ymd/2ymd_protein_cleaned.parquet 2ymd/2ymd_ligand.parquet
+
+-1 3.22 -1 3aru/3aru_protein_cleaned.parquet 3aru/3aru_ligand.parquet
+
+-1 3.28 -1 1bcu/1bcu_protein_cleaned.parquet 1bcu/1bcu_ligand.parquet
+
+-1 3.28 -1 3zsx/3zsx_protein_cleaned.parquet 3zsx/3zsx_ligand.parquet
+
+-1 3.30 -1 4ddh/4ddh_protein_cleaned.parquet 4ddh/4ddh_ligand.parquet
+
+3.52 -1 -1 4eky/4eky_protein_cleaned.parquet 4eky/4eky_ligand.parquet
+
+-1 3.57 -1 4abg/4abg_protein_cleaned.parquet 4abg/4abg_ligand.parquet
+
+-1 3.57 -1 5a7b/5a7b_protein_cleaned.parquet 5a7b/5a7b_ligand.parquet
+
+3.58 -1 -1 3dx1/3dx1_protein_cleaned.parquet 3dx1/3dx1_ligand.parquet
+
+-1 3.62 -1 4bkt/4bkt_protein_cleaned.parquet 4bkt/4bkt_ligand.parquet
+
+-1 3.66 -1 2v00/2v00_protein_cleaned.parquet 2v00/2v00_ligand.parquet
+
+-1 3.67 -1 4cig/4cig_protein_cleaned.parquet 4cig/4cig_ligand.parquet
+
+3.70 -1 -1 3n7a/3n7a_protein_cleaned.parquet 3n7a/3n7a_ligand.parquet
+
+3.76 -1 -1 3d6q/3d6q_protein_cleaned.parquet 3d6q/3d6q_ligand.parquet
+
+3.80 -1 -1 2hb1/2hb1_protein_cleaned.parquet 2hb1/2hb1_ligand.parquet
+
+3.92 -1 -1 3twp/3twp_protein_cleaned.parquet 3twp/3twp_ligand.parquet
+
+-1 3.97 -1 4agn/4agn_protein_cleaned.parquet 4agn/4agn_ligand.parquet
+
+4.01 -1 -1 1c5z/1c5z_protein_cleaned.parquet 1c5z/1c5z_ligand.parquet
+
+-1 4.03 -1 3nq9/3nq9_protein_cleaned.parquet 3nq9/3nq9_ligand.parquet
+
+4.05 -1 -1 2w66/2w66_protein_cleaned.parquet 2w66/2w66_ligand.parquet
+
+4.08 -1 -1 3kwa/3kwa_protein_cleaned.parquet 3kwa/3kwa_ligand.parquet
+
+4.09 -1 -1 3g2n/3g2n_protein_cleaned.parquet 3g2n/3g2n_ligand.parquet
+
+4.10 -1 -1 4cr9/4cr9_protein_cleaned.parquet 4cr9/4cr9_ligand.parquet
+
+-1 4.11 -1 4ih5/4ih5_protein_cleaned.parquet 4ih5/4ih5_ligand.parquet
+
+4.12 -1 -1 4de2/4de2_protein_cleaned.parquet 4de2/4de2_ligand.parquet
+
+4.13 -1 -1 3ozt/3ozt_protein_cleaned.parquet 3ozt/3ozt_ligand.parquet
+
+4.19 -1 -1 3f3a/3f3a_protein_cleaned.parquet 3f3a/3f3a_ligand.parquet
+
+4.30 -1 -1 1a30/1a30_protein_cleaned.parquet 1a30/1a30_ligand.parquet
+
+-1 4.30 -1 3ivg/3ivg_protein_cleaned.parquet 3ivg/3ivg_ligand.parquet
+
+4.38 -1 -1 3u9q/3u9q_protein_cleaned.parquet 3u9q/3u9q_ligand.parquet
+
+-1 4.41 -1 3rsx/3rsx_protein_cleaned.parquet 3rsx/3rsx_ligand.parquet
+
+-1 4.43 -1 3pxf/3pxf_protein_cleaned.parquet 3pxf/3pxf_ligand.parquet
+
+4.45 -1 -1 2wbg/2wbg_protein_cleaned.parquet 2wbg/2wbg_ligand.parquet
+
+4.55 -1 -1 3rr4/3rr4_protein_cleaned.parquet 3rr4/3rr4_ligand.parquet
+
+-1 4.65 -1 4w9c/4w9c_protein_cleaned.parquet 4w9c/4w9c_ligand.parquet
+
+-1 4.66 -1 3mss/3mss_protein_cleaned.parquet 3mss/3mss_ligand.parquet
+
+-1 4.69 -1 4agp/4agp_protein_cleaned.parquet 4agp/4agp_ligand.parquet
+
+-1 4.69 -1 4mgd/4mgd_protein_cleaned.parquet 4mgd/4mgd_ligand.parquet
+
+4.72 -1 -1 1vso/1vso_protein_cleaned.parquet 1vso/1vso_ligand.parquet
+
+4.74 -1 -1 4jxs/4jxs_protein_cleaned.parquet 4jxs/4jxs_ligand.parquet
+
+-1 4.76 -1 1q8t/1q8t_protein_cleaned.parquet 1q8t/1q8t_ligand.parquet
+
+4.76 -1 -1 3acw/3acw_protein_cleaned.parquet 3acw/3acw_ligand.parquet
+
+-1 4.80 -1 4lzs/4lzs_protein_cleaned.parquet 4lzs/4lzs_ligand.parquet
+
+4.82 -1 -1 3r88/3r88_protein_cleaned.parquet 3r88/3r88_ligand.parquet
+
+4.82 -1 -1 4ciw/4ciw_protein_cleaned.parquet 4ciw/4ciw_ligand.parquet
+
+-1 4.85 -1 2w4x/2w4x_protein_cleaned.parquet 2w4x/2w4x_ligand.parquet
+
+4.86 -1 -1 2brb/2brb_protein_cleaned.parquet 2brb/2brb_ligand.parquet
+
+-1 4.89 -1 1p1q/1p1q_protein_cleaned.parquet 1p1q/1p1q_ligand.parquet
+
+4.89 -1 -1 3d4z/3d4z_protein_cleaned.parquet 3d4z/3d4z_ligand.parquet
+
+4.92 -1 -1 1bzc/1bzc_protein_cleaned.parquet 1bzc/1bzc_ligand.parquet
+
+5.00 -1 -1 1nc3/1nc3_protein_cleaned.parquet 1nc3/1nc3_ligand.parquet
+
+-1 5.01 -1 4agq/4agq_protein_cleaned.parquet 4agq/4agq_ligand.parquet
+
+-1 5.02 -1 4w9l/4w9l_protein_cleaned.parquet 4w9l/4w9l_ligand.parquet
+
+-1 5.06 -1 2yge/2yge_protein_cleaned.parquet 2yge/2yge_ligand.parquet
+
+5.10 -1 -1 2r9w/2r9w_protein_cleaned.parquet 2r9w/2r9w_ligand.parquet
+
+-1 5.10 -1 3gy4/3gy4_protein_cleaned.parquet 3gy4/3gy4_ligand.parquet
+
+5.10 -1 -1 3syr/3syr_protein_cleaned.parquet 3syr/3syr_ligand.parquet
+
+-1 5.12 -1 3zso/3zso_protein_cleaned.parquet 3zso/3zso_ligand.parquet
+
+5.14 -1 -1 2br1/2br1_protein_cleaned.parquet 2br1/2br1_ligand.parquet
+
+5.15 -1 -1 1s38/1s38_protein_cleaned.parquet 1s38/1s38_ligand.parquet
+
+-1 5.16 -1 3b27/3b27_protein_cleaned.parquet 3b27/3b27_ligand.parquet
+
+5.17 -1 -1 4gkm/4gkm_protein_cleaned.parquet 4gkm/4gkm_ligand.parquet
+
+-1 5.19 -1 4m0z/4m0z_protein_cleaned.parquet 4m0z/4m0z_ligand.parquet
+
+5.22 -1 -1 1w4o/1w4o_protein_cleaned.parquet 1w4o/1w4o_ligand.parquet
+
+-1 5.24 -1 3ueu/3ueu_protein_cleaned.parquet 3ueu/3ueu_ligand.parquet
+
+-1 5.24 -1 4ih7/4ih7_protein_cleaned.parquet 4ih7/4ih7_ligand.parquet
+
+5.27 -1 -1 4jfs/4jfs_protein_cleaned.parquet 4jfs/4jfs_ligand.parquet
+
+5.33 -1 -1 3ozs/3ozs_protein_cleaned.parquet 3ozs/3ozs_ligand.parquet
+
+5.36 -1 -1 3bv9/3bv9_protein_cleaned.parquet 3bv9/3bv9_ligand.parquet
+
+5.37 -1 -1 1gpk/1gpk_protein_cleaned.parquet 1gpk/1gpk_ligand.parquet
+
+5.44 -1 -1 1syi/1syi_protein_cleaned.parquet 1syi/1syi_ligand.parquet
+
+-1 5.48 -1 2cbv/2cbv_protein_cleaned.parquet 2cbv/2cbv_ligand.parquet
+
+5.52 -1 -1 1ydr/1ydr_protein_cleaned.parquet 1ydr/1ydr_ligand.parquet
+
+5.52 -1 -1 4de3/4de3_protein_cleaned.parquet 4de3/4de3_ligand.parquet
+
+-1 5.57 -1 3coz/3coz_protein_cleaned.parquet 3coz/3coz_ligand.parquet
+
+5.60 -1 -1 2wca/2wca_protein_cleaned.parquet 2wca/2wca_ligand.parquet
+
+-1 5.61 -1 3u5j/3u5j_protein_cleaned.parquet 3u5j/3u5j_ligand.parquet
+
+-1 5.62 -1 4dli/4dli_protein_cleaned.parquet 4dli/4dli_ligand.parquet
+
+5.64 -1 -1 1z9g/1z9g_protein_cleaned.parquet 1z9g/1z9g_ligand.parquet
+
+-1 5.64 -1 3arv/3arv_protein_cleaned.parquet 3arv/3arv_ligand.parquet
+
+5.64 -1 -1 3n86/3n86_protein_cleaned.parquet 3n86/3n86_ligand.parquet
+
+5.66 -1 -1 5c28/5c28_protein_cleaned.parquet 5c28/5c28_ligand.parquet
+
+5.70 -1 -1 4j28/4j28_protein_cleaned.parquet 4j28/4j28_ligand.parquet
+
+5.72 -1 -1 3jvr/3jvr_protein_cleaned.parquet 3jvr/3jvr_ligand.parquet
+
+5.77 -1 -1 1o5b/1o5b_protein_cleaned.parquet 1o5b/1o5b_ligand.parquet
+
+5.79 -1 -1 2y5h/2y5h_protein_cleaned.parquet 2y5h/2y5h_ligand.parquet
+
+5.82 -1 -1 3qqs/3qqs_protein_cleaned.parquet 3qqs/3qqs_ligand.parquet
+
+5.82 -1 -1 3wz8/3wz8_protein_cleaned.parquet 3wz8/3wz8_ligand.parquet
+
+5.82 -1 -1 4dld/4dld_protein_cleaned.parquet 4dld/4dld_ligand.parquet
+
+5.85 -1 -1 3ehy/3ehy_protein_cleaned.parquet 3ehy/3ehy_ligand.parquet
+
+-1 5.89 -1 3uev/3uev_protein_cleaned.parquet 3uev/3uev_ligand.parquet
+
+5.91 -1 -1 3ebp/3ebp_protein_cleaned.parquet 3ebp/3ebp_ligand.parquet
+
+5.92 -1 -1 1o0h/1o0h_protein_cleaned.parquet 1o0h/1o0h_ligand.parquet
+
+-1 5.96 -1 1q8u/1q8u_protein_cleaned.parquet 1q8u/1q8u_ligand.parquet
+
+5.96 -1 -1 4de1/4de1_protein_cleaned.parquet 4de1/4de1_ligand.parquet
+
+-1 5.96 -1 4w9i/4w9i_protein_cleaned.parquet 4w9i/4w9i_ligand.parquet
+
+-1 6.00 -1 3ary/3ary_protein_cleaned.parquet 3ary/3ary_ligand.parquet
+
+-1 6.02 -1 3coy/3coy_protein_cleaned.parquet 3coy/3coy_ligand.parquet
+
+6.02 -1 -1 3f3c/3f3c_protein_cleaned.parquet 3f3c/3f3c_ligand.parquet
+
+-1 6.06 -1 2fxs/2fxs_protein_cleaned.parquet 2fxs/2fxs_ligand.parquet
+
+-1 6.10 -1 4kzq/4kzq_protein_cleaned.parquet 4kzq/4kzq_ligand.parquet
+
+6.11 -1 -1 2qnq/2qnq_protein_cleaned.parquet 2qnq/2qnq_ligand.parquet
+
+6.12 -1 -1 1nc1/1nc1_protein_cleaned.parquet 1nc1/1nc1_ligand.parquet
+
+-1 6.12 -1 2wvt/2wvt_protein_cleaned.parquet 2wvt/2wvt_ligand.parquet
+
+-1 6.17 -1 1yc1/1yc1_protein_cleaned.parquet 1yc1/1yc1_ligand.parquet
+
+6.26 -1 -1 3bgz/3bgz_protein_cleaned.parquet 3bgz/3bgz_ligand.parquet
+
+-1 6.26 -1 4wiv/4wiv_protein_cleaned.parquet 4wiv/4wiv_ligand.parquet
+
+-1 6.30 -1 3k5v/3k5v_protein_cleaned.parquet 3k5v/3k5v_ligand.parquet
+
+6.30 -1 -1 4eor/4eor_protein_cleaned.parquet 4eor/4eor_ligand.parquet
+
+-1 6.31 -1 3uew/3uew_protein_cleaned.parquet 3uew/3uew_ligand.parquet
+
+-1 6.32 -1 2wnc/2wnc_protein_cleaned.parquet 2wnc/2wnc_ligand.parquet
+
+-1 6.32 -1 2zb1/2zb1_protein_cleaned.parquet 2zb1/2zb1_ligand.parquet
+
+6.33 -1 -1 2qbr/2qbr_protein_cleaned.parquet 2qbr/2qbr_ligand.parquet
+
+-1 6.40 -1 3arq/3arq_protein_cleaned.parquet 3arq/3arq_ligand.parquet
+
+-1 6.42 -1 2j78/2j78_protein_cleaned.parquet 2j78/2j78_ligand.parquet
+
+6.44 -1 -1 4ea2/4ea2_protein_cleaned.parquet 4ea2/4ea2_ligand.parquet
+
+6.46 -1 -1 1r5y/1r5y_protein_cleaned.parquet 1r5y/1r5y_ligand.parquet
+
+-1 6.46 -1 4m0y/4m0y_protein_cleaned.parquet 4m0y/4m0y_ligand.parquet
+
+6.48 -1 -1 1gpn/1gpn_protein_cleaned.parquet 1gpn/1gpn_ligand.parquet
+
+-1 6.50 -1 2weg/2weg_protein_cleaned.parquet 2weg/2weg_ligand.parquet
+
+6.50 -1 -1 4kzu/4kzu_protein_cleaned.parquet 4kzu/4kzu_ligand.parquet
+
+-1 6.50 -1 4mme/4mme_protein_cleaned.parquet 4mme/4mme_ligand.parquet
+
+-1 6.51 -1 3cj4/3cj4_protein_cleaned.parquet 3cj4/3cj4_ligand.parquet
+
+-1 6.52 -1 3uo4/3uo4_protein_cleaned.parquet 3uo4/3uo4_ligand.parquet
+
+-1 6.53 -1 3wtj/3wtj_protein_cleaned.parquet 3wtj/3wtj_ligand.parquet
+
+-1 6.54 -1 3jvs/3jvs_protein_cleaned.parquet 3jvs/3jvs_ligand.parquet
+
+-1 6.58 -1 1k1i/1k1i_protein_cleaned.parquet 1k1i/1k1i_ligand.parquet
+
+6.63 -1 -1 2yfe/2yfe_protein_cleaned.parquet 2yfe/2yfe_ligand.parquet
+
+6.63 -1 -1 4k77/4k77_protein_cleaned.parquet 4k77/4k77_ligand.parquet
+
+6.66 -1 -1 2xj7/2xj7_protein_cleaned.parquet 2xj7/2xj7_ligand.parquet
+
+-1 6.68 -1 2iwx/2iwx_protein_cleaned.parquet 2iwx/2iwx_ligand.parquet
+
+6.70 -1 -1 4f09/4f09_protein_cleaned.parquet 4f09/4f09_ligand.parquet
+
+6.72 -1 -1 4djv/4djv_protein_cleaned.parquet 4djv/4djv_ligand.parquet
+
+-1 6.73 -1 4w9h/4w9h_protein_cleaned.parquet 4w9h/4w9h_ligand.parquet
+
+-1 6.79 -1 4ogj/4ogj_protein_cleaned.parquet 4ogj/4ogj_ligand.parquet
+
+-1 6.80 -1 1p1n/1p1n_protein_cleaned.parquet 1p1n/1p1n_ligand.parquet
+
+6.82 -1 -1 3dx2/3dx2_protein_cleaned.parquet 3dx2/3dx2_ligand.parquet
+
+6.83 -1 -1 2xnb/2xnb_protein_cleaned.parquet 2xnb/2xnb_ligand.parquet
+
+6.85 -1 -1 3n76/3n76_protein_cleaned.parquet 3n76/3n76_ligand.parquet
+
+-1 6.86 -1 3pyy/3pyy_protein_cleaned.parquet 3pyy/3pyy_ligand.parquet
+
+6.87 -1 -1 2zcr/2zcr_protein_cleaned.parquet 2zcr/2zcr_ligand.parquet
+
+6.88 -1 -1 3oe5/3oe5_protein_cleaned.parquet 3oe5/3oe5_ligand.parquet
+
+6.89 -1 -1 3jya/3jya_protein_cleaned.parquet 3jya/3jya_ligand.parquet
+
+6.90 -1 -1 3gbb/3gbb_protein_cleaned.parquet 3gbb/3gbb_ligand.parquet
+
+-1 6.92 -1 3uex/3uex_protein_cleaned.parquet 3uex/3uex_ligand.parquet
+
+6.94 -1 -1 4f9w/4f9w_protein_cleaned.parquet 4f9w/4f9w_ligand.parquet
+
+-1 7.05 -1 2wer/2wer_protein_cleaned.parquet 2wer/2wer_ligand.parquet
+
+7.09 -1 -1 1lpg/1lpg_protein_cleaned.parquet 1lpg/1lpg_ligand.parquet
+
+7.10 -1 -1 3zdg/3zdg_protein_cleaned.parquet 3zdg/3zdg_ligand.parquet
+
+7.12 -1 -1 1z95/1z95_protein_cleaned.parquet 1z95/1z95_ligand.parquet
+
+7.15 -1 -1 1pxn/1pxn_protein_cleaned.parquet 1pxn/1pxn_ligand.parquet
+
+-1 7.15 -1 3arp/3arp_protein_cleaned.parquet 3arp/3arp_ligand.parquet
+
+-1 7.16 -1 3f3d/3f3d_protein_cleaned.parquet 3f3d/3f3d_ligand.parquet
+
+-1 7.17 -1 3tsk/3tsk_protein_cleaned.parquet 3tsk/3tsk_ligand.parquet
+
+-1 7.19 -1 2j7h/2j7h_protein_cleaned.parquet 2j7h/2j7h_ligand.parquet
+
+-1 7.20 -1 2xii/2xii_protein_cleaned.parquet 2xii/2xii_ligand.parquet
+
+7.22 -1 -1 4cra/4cra_protein_cleaned.parquet 4cra/4cra_ligand.parquet
+
+7.22 -1 -1 4gfm/4gfm_protein_cleaned.parquet 4gfm/4gfm_ligand.parquet
+
+7.24 -1 -1 1oyt/1oyt_protein_cleaned.parquet 1oyt/1oyt_ligand.parquet
+
+7.26 -1 -1 3gc5/3gc5_protein_cleaned.parquet 3gc5/3gc5_ligand.parquet
+
+-1 7.26 -1 3p5o/3p5o_protein_cleaned.parquet 3p5o/3p5o_ligand.parquet
+
+-1 7.30 -1 2vvn/2vvn_protein_cleaned.parquet 2vvn/2vvn_ligand.parquet
+
+7.32 -1 -1 1qf1/1qf1_protein_cleaned.parquet 1qf1/1qf1_ligand.parquet
+
+7.32 -1 -1 1ydt/1ydt_protein_cleaned.parquet 1ydt/1ydt_ligand.parquet
+
+7.32 -1 -1 3pww/3pww_protein_cleaned.parquet 3pww/3pww_ligand.parquet
+
+7.40 -1 -1 1owh/1owh_protein_cleaned.parquet 1owh/1owh_ligand.parquet
+
+7.40 -1 -1 2zy1/2zy1_protein_cleaned.parquet 2zy1/2zy1_ligand.parquet
+
+-1 7.40 -1 3up2/3up2_protein_cleaned.parquet 3up2/3up2_ligand.parquet
+
+-1 7.41 -1 4j21/4j21_protein_cleaned.parquet 4j21/4j21_ligand.parquet
+
+7.42 -1 -1 2xys/2xys_protein_cleaned.parquet 2xys/2xys_ligand.parquet
+
+7.44 -1 -1 2qbq/2qbq_protein_cleaned.parquet 2qbq/2qbq_ligand.parquet
+
+7.47 -1 -1 3oe4/3oe4_protein_cleaned.parquet 3oe4/3oe4_ligand.parquet
+
+7.52 -1 -1 3rlr/3rlr_protein_cleaned.parquet 3rlr/3rlr_ligand.parquet
+
+7.59 -1 -1 2xb8/2xb8_protein_cleaned.parquet 2xb8/2xb8_ligand.parquet
+
+-1 7.60 -1 2c3i/2c3i_protein_cleaned.parquet 2c3i/2c3i_ligand.parquet
+
+7.66 -1 -1 4e5w/4e5w_protein_cleaned.parquet 4e5w/4e5w_ligand.parquet
+
+-1 7.70 -1 3f3e/3f3e_protein_cleaned.parquet 3f3e/3f3e_ligand.parquet
+
+-1 7.80 -1 1u1b/1u1b_protein_cleaned.parquet 1u1b/1u1b_ligand.parquet
+
+7.80 -1 -1 3qgy/3qgy_protein_cleaned.parquet 3qgy/3qgy_ligand.parquet
+
+-1 7.80 -1 3ryj/3ryj_protein_cleaned.parquet 3ryj/3ryj_ligand.parquet
+
+-1 7.80 -1 4j3l/4j3l_protein_cleaned.parquet 4j3l/4j3l_ligand.parquet
+
+7.82 -1 -1 3prs/3prs_protein_cleaned.parquet 3prs/3prs_ligand.parquet
+
+7.85 -1 -1 4pcs/4pcs_protein_cleaned.parquet 4pcs/4pcs_ligand.parquet
+
+7.92 -1 -1 4hge/4hge_protein_cleaned.parquet 4hge/4hge_ligand.parquet
+
+7.96 -1 -1 1g2k/1g2k_protein_cleaned.parquet 1g2k/1g2k_ligand.parquet
+
+7.96 -1 -1 1o3f/1o3f_protein_cleaned.parquet 1o3f/1o3f_ligand.parquet
+
+7.96 -1 -1 2qe4/2qe4_protein_cleaned.parquet 2qe4/2qe4_ligand.parquet
+
+7.96 -1 -1 3uuo/3uuo_protein_cleaned.parquet 3uuo/3uuo_ligand.parquet
+
+8.00 -1 -1 3e92/3e92_protein_cleaned.parquet 3e92/3e92_ligand.parquet
+
+8.00 -1 -1 3fur/3fur_protein_cleaned.parquet 3fur/3fur_ligand.parquet
+
+-1 8.02 -1 2cet/2cet_protein_cleaned.parquet 2cet/2cet_ligand.parquet
+
+8.04 -1 -1 5tmn/5tmn_protein_cleaned.parquet 5tmn/5tmn_ligand.parquet
+
+8.05 -1 -1 3ag9/3ag9_protein_cleaned.parquet 3ag9/3ag9_ligand.parquet
+
+-1 8.10 -1 3kr8/3kr8_protein_cleaned.parquet 3kr8/3kr8_ligand.parquet
+
+-1 8.10 -1 3nx7/3nx7_protein_cleaned.parquet 3nx7/3nx7_ligand.parquet
+
+8.11 -1 -1 3fv2/3fv2_protein_cleaned.parquet 3fv2/3fv2_ligand.parquet
+
+-1 8.15 -1 4eo8/4eo8_protein_cleaned.parquet 4eo8/4eo8_ligand.parquet
+
+8.23 -1 -1 3e5a/3e5a_protein_cleaned.parquet 3e5a/3e5a_ligand.parquet
+
+8.25 -1 -1 1nvq/1nvq_protein_cleaned.parquet 1nvq/1nvq_ligand.parquet
+
+-1 8.30 -1 2v7a/2v7a_protein_cleaned.parquet 2v7a/2v7a_ligand.parquet
+
+8.30 -1 -1 4x6p/4x6p_protein_cleaned.parquet 4x6p/4x6p_ligand.parquet
+
+8.35 -1 -1 1h23/1h23_protein_cleaned.parquet 1h23/1h23_ligand.parquet
+
+8.36 -1 -1 4e6q/4e6q_protein_cleaned.parquet 4e6q/4e6q_ligand.parquet
+
+8.40 -1 -1 2al5/2al5_protein_cleaned.parquet 2al5/2al5_ligand.parquet
+
+8.40 -1 -1 2qbp/2qbp_protein_cleaned.parquet 2qbp/2qbp_ligand.parquet
+
+8.40 -1 -1 2zda/2zda_protein_cleaned.parquet 2zda/2zda_ligand.parquet
+
+8.40 -1 -1 3b68/3b68_protein_cleaned.parquet 3b68/3b68_ligand.parquet
+
+-1 8.43 -1 2xbv/2xbv_protein_cleaned.parquet 2xbv/2xbv_ligand.parquet
+
+8.48 -1 -1 3b1m/3b1m_protein_cleaned.parquet 3b1m/3b1m_ligand.parquet
+
+8.52 -1 -1 2fvd/2fvd_protein_cleaned.parquet 2fvd/2fvd_ligand.parquet
+
+-1 8.52 -1 2vw5/2vw5_protein_cleaned.parquet 2vw5/2vw5_ligand.parquet
+
+-1 8.52 -1 2wn9/2wn9_protein_cleaned.parquet 2wn9/2wn9_ligand.parquet
+
+8.57 -1 -1 3ejr/3ejr_protein_cleaned.parquet 3ejr/3ejr_ligand.parquet
+
+8.64 -1 -1 4qd6/4qd6_protein_cleaned.parquet 4qd6/4qd6_ligand.parquet
+
+8.66 -1 -1 3u8k/3u8k_protein_cleaned.parquet 3u8k/3u8k_ligand.parquet
+
+8.70 -1 -1 3ge7/3ge7_protein_cleaned.parquet 3ge7/3ge7_ligand.parquet
+
+8.72 -1 -1 4crc/4crc_protein_cleaned.parquet 4crc/4crc_ligand.parquet
+
+8.72 -1 -1 4ivb/4ivb_protein_cleaned.parquet 4ivb/4ivb_ligand.parquet
+
+8.74 -1 -1 2vkm/2vkm_protein_cleaned.parquet 2vkm/2vkm_ligand.parquet
+
+8.74 -1 -1 2wtv/2wtv_protein_cleaned.parquet 2wtv/2wtv_ligand.parquet
+
+8.77 -1 -1 3b5r/3b5r_protein_cleaned.parquet 3b5r/3b5r_ligand.parquet
+
+8.82 -1 -1 2zcq/2zcq_protein_cleaned.parquet 2zcq/2zcq_ligand.parquet
+
+8.85 -1 -1 3e93/3e93_protein_cleaned.parquet 3e93/3e93_ligand.parquet
+
+8.96 -1 -1 4k18/4k18_protein_cleaned.parquet 4k18/4k18_ligand.parquet
+
+9.00 -1 -1 2p4y/2p4y_protein_cleaned.parquet 2p4y/2p4y_ligand.parquet
+
+9.00 -1 -1 3dd0/3dd0_protein_cleaned.parquet 3dd0/3dd0_ligand.parquet
+
+9.00 -1 -1 3nw9/3nw9_protein_cleaned.parquet 3nw9/3nw9_ligand.parquet
+
+9.00 -1 -1 3ui7/3ui7_protein_cleaned.parquet 3ui7/3ui7_ligand.parquet
+
+9.00 -1 -1 3uri/3uri_protein_cleaned.parquet 3uri/3uri_ligand.parquet
+
+-1 9.04 -1 1qkt/1qkt_protein_cleaned.parquet 1qkt/1qkt_ligand.parquet
+
+9.10 -1 -1 1h22/1h22_protein_cleaned.parquet 1h22/1h22_ligand.parquet
+
+-1 9.10 -1 3gnw/3gnw_protein_cleaned.parquet 3gnw/3gnw_ligand.parquet
+
+9.21 -1 -1 1sqa/1sqa_protein_cleaned.parquet 1sqa/1sqa_ligand.parquet
+
+9.22 -1 -1 4jia/4jia_protein_cleaned.parquet 4jia/4jia_ligand.parquet
+
+9.27 -1 -1 3b65/3b65_protein_cleaned.parquet 3b65/3b65_ligand.parquet
+
+9.30 -1 -1 3fv1/3fv1_protein_cleaned.parquet 3fv1/3fv1_ligand.parquet
+
+-1 9.40 -1 4qac/4qac_protein_cleaned.parquet 4qac/4qac_ligand.parquet
+
+-1 9.46 -1 2yki/2yki_protein_cleaned.parquet 2yki/2yki_ligand.parquet
+
+9.52 -1 -1 3g0w/3g0w_protein_cleaned.parquet 3g0w/3g0w_ligand.parquet
+
+9.52 -1 -1 4ivd/4ivd_protein_cleaned.parquet 4ivd/4ivd_ligand.parquet
+
+9.52 -1 -1 4ty7/4ty7_protein_cleaned.parquet 4ty7/4ty7_ligand.parquet
+
+9.54 -1 -1 2pog/2pog_protein_cleaned.parquet 2pog/2pog_ligand.parquet
+
+9.55 -1 -1 4gr0/4gr0_protein_cleaned.parquet 4gr0/4gr0_ligand.parquet
+
+9.70 -1 -1 1eby/1eby_protein_cleaned.parquet 1eby/1eby_ligand.parquet
+
+9.72 -1 -1 1z6e/1z6e_protein_cleaned.parquet 1z6e/1z6e_ligand.parquet
+
+9.89 -1 -1 1e66/1e66_protein_cleaned.parquet 1e66/1e66_ligand.parquet
+
+10.00 -1 -1 4ivc/4ivc_protein_cleaned.parquet 4ivc/4ivc_ligand.parquet
+
+10.00 -1 -1 4twp/4twp_protein_cleaned.parquet 4twp/4twp_ligand.parquet
+
+10.05 -1 -1 4rfm/4rfm_protein_cleaned.parquet 4rfm/4rfm_ligand.parquet
+
+10.11 -1 -1 1y6r/1y6r_protein_cleaned.parquet 1y6r/1y6r_ligand.parquet
+
+10.17 -1 -1 3u8n/3u8n_protein_cleaned.parquet 3u8n/3u8n_ligand.parquet
+
+10.17 -1 -1 4tmn/4tmn_protein_cleaned.parquet 4tmn/4tmn_ligand.parquet
+
+-1 10.30 -1 2p15/2p15_protein_cleaned.parquet 2p15/2p15_ligand.parquet
+
+-1 10.70 -1 3myg/3myg_protein_cleaned.parquet 3myg/3myg_ligand.parquet
+
+10.77 -1 -1 4gid/4gid_protein_cleaned.parquet 4gid/4gid_ligand.parquet
+
+10.92 -1 -1 3utu/3utu_protein_cleaned.parquet 3utu/3utu_ligand.parquet
+
+11.09 -1 -1 5c2h/5c2h_protein_cleaned.parquet 5c2h/5c2h_ligand.parquet
+
+11.15 -1 -1 1mq6/1mq6_protein_cleaned.parquet 1mq6/1mq6_ligand.parquet
+
+11.22 -1 -1 5dwr/5dwr_protein_cleaned.parquet 5dwr/5dwr_ligand.parquet
+
+11.30 -1 -1 4f2w/4f2w_protein_cleaned.parquet 4f2w/4f2w_ligand.parquet
+
+-1 11.33 -1 2x00/2x00_protein_cleaned.parquet 2x00/2x00_ligand.parquet
+
+11.82 -1 -1 3o9i/3o9i_protein_cleaned.parquet 3o9i/3o9i_ligand.parquet
+
+11.82 -1 -1 4f3c/4f3c_protein_cleaned.parquet 4f3c/4f3c_ligand.parquet
